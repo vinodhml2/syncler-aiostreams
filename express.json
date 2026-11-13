@@ -5,7 +5,7 @@
     "languages": [
       "en"
     ],
-    "base_url": "https://aiostreamsfortheweebs.midnightignite.me",
+    "base_url": "https://vinod303.duckdns.org",
     "response_type": "json",
     "time_to_wait_between_each_request_ms": 300,
     "time_to_wait_on_too_many_request_ms": 5000,
