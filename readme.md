@@ -7,7 +7,7 @@ A static Syncler Express provider package that queries Midnight's **AIOStreams N
 Add this vendor URL in Syncler:
 
 ```text
-https://raw.githubusercontent.com/Cxsmo-ai/syncler-aiostreams/main/vendor.json
+https://raw.githubusercontent.com/vinodhml2/syncler-aiostreams/main/vendor.json
 ```
 
 GitHub Pages also serves the same file:
