@@ -1,22 +1,23 @@
 {
-  "name": "AIOStreams|PL for Syncler",
-  "id": "com.vinod303.syncler.aiostreams.direct"
-  "version": 1784141456,
+  "name": "AIOStreams (vinod303)",
+  "id": "com.vinod303.syncler.aiostreams.direct",
+  "version": 1784141457,
   "url": "https://raw.githubusercontent.com/vinodhml2/syncler-aiostreams/main/express.json",
   "type": "express",
   "accounts": [
     {
       "alias": "aio",
       "branding": {
-        "name": "AIOStreams (vinod303)"
+        "name": "AIOStreams (vinod303)",
         "website": "https://vinod303.duckdns.org",
-        "logo": "https://aiostreamsfortheweebs.midnightignite.me/logo.png"
+        "logo": "https://vinod303.duckdns.org/logo.png"
       },
       "auth": {
         "type": "basic",
         "allowedDomains": [
-          "vinod303.duckdns. org"
+          "vinod303.duckdns.org"
         ],
+
         "inject": {
           "headers": {
             "Authorization": "Basic {managedAccounts.aio.basicToken}"
